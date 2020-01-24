@@ -25781,7 +25781,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 143}
-  m_SizeDelta: {x: 572.92, y: 108}
+  m_SizeDelta: {x: 728.95, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &478477446
 MonoBehaviour:
@@ -25803,7 +25803,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 28
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -59110,7 +59110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: e59cd90cbc4b509409e319cceb2904d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 67.39316
+      value: 67.54
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: e59cd90cbc4b509409e319cceb2904d7, type: 3}
       propertyPath: m_LocalPosition.y
