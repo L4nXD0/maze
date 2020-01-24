@@ -1255,21 +1255,6 @@ CapsuleCollider:
   m_Height: 0.038970597
   m_Direction: 1
   m_Center: {x: 0.014732538, y: 0.009109886, z: 0.004355078}
---- !u!114 &21874809
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 21874802}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06394874fc8bc6f44a940d76c006a62c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  uiObject: {fileID: 0}
-  player: {fileID: 0}
-  newText: 
 --- !u!1001 &21940788
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -68104,6 +68089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1236753468}
   - component: {fileID: 1236753467}
+  - component: {fileID: 1236753469}
   m_Layer: 8
   m_Name: PostProcessingVolume
   m_TagString: Untagged
@@ -68142,6 +68128,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1236753469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236753466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728939b34274fc547b4f41562566d786, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volume: {fileID: 1236753467}
+  lensDistortionStrenght: 45
+  lensDistortionSpeed: 0.88
+  chromaticAberrationStrenght: 2
+  chromaticAberrationSpeed: 2.21
+  grainStrenght: 0.44
+  grainSpeed: 0.39
+  grainSize: 1.7
+  grainSizeSpeed: 0.19
 --- !u!1 &1237394340
 GameObject:
   m_ObjectHideFlags: 0
@@ -70704,7 +70711,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41229ef94a547e041998b64ba677a79a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerStartPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &1273300623
 GameObject:
   m_ObjectHideFlags: 0
