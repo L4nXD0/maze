@@ -9,7 +9,11 @@ public class TeleportPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+<<<<<<< Updated upstream
         playerStartPosition = transform.position;
+=======
+         playerStartPosition = transform.position;
+>>>>>>> Stashed changes
     }
 
     // Update is called once per frame
