@@ -6,7 +6,7 @@ using UnityStandardAssets.Characters.FirstPerson;
 public class TeleportPlayer : MonoBehaviour
 {
 
-    public Vector3 playerStartPosition;
+    private Vector3 playerStartPosition;
     // Start is called before the first frame update
     void Start()
     {
