@@ -581,3 +581,5 @@ D:\GitHub\maze\Maze\obj\Debug\Assembly-CSharp.dll
 D:\GitHub\maze\Maze\obj\Debug\Assembly-CSharp.pdb
 D:\GitHub\maze\Maze\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
 D:\GitHub\maze\Maze\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\GitHub\maze\Maze\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\GitHub\maze\Maze\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
