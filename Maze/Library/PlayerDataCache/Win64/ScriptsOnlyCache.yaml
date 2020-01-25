@@ -3,6 +3,8 @@ ScriptsOnlyBuild:
     Assembly-CSharp-firstpass.dll:
     - UnityStandardAssets.Characters.FirstPerson.FirstPersonController
     Assembly-CSharp.dll:
+    - LampOnOff
+    - LampOnOffEG
     - LightFlickering
     - PickupObject
     - PillMovement
@@ -90,75 +92,79 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9788}
+      Script: {instanceID: 9796}
     - Class: 114
-      Script: {instanceID: 9812}
+      Script: {instanceID: 9820}
     - Class: 114
-      Script: {instanceID: 9836}
+      Script: {instanceID: 9844}
     - Class: 114
-      Script: {instanceID: 9842}
+      Script: {instanceID: 9850}
     - Class: 114
-      Script: {instanceID: 9868}
+      Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9934}
-    - Class: 114
-      Script: {instanceID: 9966}
+      Script: {instanceID: 9942}
     - Class: 114
       Script: {instanceID: 9974}
     - Class: 114
-      Script: {instanceID: 9978}
+      Script: {instanceID: 9982}
     - Class: 114
-      Script: {instanceID: 10050}
+      Script: {instanceID: 9986}
     - Class: 114
-      Script: {instanceID: 10064}
+      Script: {instanceID: 10058}
     - Class: 114
-      Script: {instanceID: 10096}
+      Script: {instanceID: 10072}
     - Class: 114
-      Script: {instanceID: 10106}
+      Script: {instanceID: 10104}
     - Class: 114
-      Script: {instanceID: 10134}
+      Script: {instanceID: 10114}
     - Class: 114
-      Script: {instanceID: 10274}
+      Script: {instanceID: 10142}
     - Class: 114
-      Script: {instanceID: 10312}
+      Script: {instanceID: 10282}
     - Class: 114
-      Script: {instanceID: 10360}
+      Script: {instanceID: 10320}
     - Class: 114
-      Script: {instanceID: 10442}
+      Script: {instanceID: 10368}
     - Class: 114
-      Script: {instanceID: 10462}
+      Script: {instanceID: 10450}
     - Class: 114
-      Script: {instanceID: 10590}
+      Script: {instanceID: 10470}
     - Class: 114
-      Script: {instanceID: 10674}
+      Script: {instanceID: 10598}
     - Class: 114
-      Script: {instanceID: 10704}
+      Script: {instanceID: 10682}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10712}
     - Class: 114
-      Script: {instanceID: 11094}
+      Script: {instanceID: 10846}
     - Class: 114
-      Script: {instanceID: 11146}
+      Script: {instanceID: 11102}
     - Class: 114
-      Script: {instanceID: 11162}
+      Script: {instanceID: 11154}
     - Class: 114
-      Script: {instanceID: 11190}
+      Script: {instanceID: 11170}
     - Class: 114
-      Script: {instanceID: 11264}
+      Script: {instanceID: 11198}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11272}
     - Class: 114
-      Script: {instanceID: 11692}
+      Script: {instanceID: 11306}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11510}
     - Class: 114
-      Script: {instanceID: 12252}
+      Script: {instanceID: 11702}
     - Class: 114
-      Script: {instanceID: 12260}
+      Script: {instanceID: 11918}
     - Class: 114
-      Script: {instanceID: 12302}
+      Script: {instanceID: 12262}
     - Class: 114
-      Script: {instanceID: 12410}
+      Script: {instanceID: 12270}
+    - Class: 114
+      Script: {instanceID: 12272}
+    - Class: 114
+      Script: {instanceID: 12314}
+    - Class: 114
+      Script: {instanceID: 12422}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -960,6 +966,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LampOnOff
+  - hash:
+      serializedVersion: 2
       Hash: 8216ca00094987954bcf22fd5ccf9bfd
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Cameras
@@ -1294,6 +1306,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: PostProcessVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LampOnOffEG
   - hash:
       serializedVersion: 2
       Hash: d0987ce3e9092dbe0fa30d73f333fffa
