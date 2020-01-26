@@ -92,79 +92,79 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9796}
+      Script: {instanceID: 9788}
     - Class: 114
-      Script: {instanceID: 9820}
+      Script: {instanceID: 9812}
     - Class: 114
-      Script: {instanceID: 9844}
+      Script: {instanceID: 9836}
     - Class: 114
-      Script: {instanceID: 9850}
+      Script: {instanceID: 9842}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 9868}
     - Class: 114
-      Script: {instanceID: 9942}
+      Script: {instanceID: 9934}
+    - Class: 114
+      Script: {instanceID: 9966}
     - Class: 114
       Script: {instanceID: 9974}
     - Class: 114
-      Script: {instanceID: 9982}
+      Script: {instanceID: 9978}
     - Class: 114
-      Script: {instanceID: 9986}
+      Script: {instanceID: 10050}
     - Class: 114
-      Script: {instanceID: 10058}
+      Script: {instanceID: 10064}
     - Class: 114
-      Script: {instanceID: 10072}
+      Script: {instanceID: 10096}
     - Class: 114
-      Script: {instanceID: 10104}
+      Script: {instanceID: 10106}
     - Class: 114
-      Script: {instanceID: 10114}
+      Script: {instanceID: 10134}
     - Class: 114
-      Script: {instanceID: 10142}
+      Script: {instanceID: 10274}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10312}
     - Class: 114
-      Script: {instanceID: 10320}
+      Script: {instanceID: 10360}
     - Class: 114
-      Script: {instanceID: 10368}
+      Script: {instanceID: 10442}
     - Class: 114
-      Script: {instanceID: 10450}
+      Script: {instanceID: 10462}
     - Class: 114
-      Script: {instanceID: 10470}
+      Script: {instanceID: 10590}
     - Class: 114
-      Script: {instanceID: 10598}
+      Script: {instanceID: 10674}
     - Class: 114
-      Script: {instanceID: 10682}
+      Script: {instanceID: 10704}
     - Class: 114
-      Script: {instanceID: 10712}
+      Script: {instanceID: 10838}
     - Class: 114
-      Script: {instanceID: 10846}
+      Script: {instanceID: 11094}
     - Class: 114
-      Script: {instanceID: 11102}
+      Script: {instanceID: 11146}
     - Class: 114
-      Script: {instanceID: 11154}
+      Script: {instanceID: 11162}
     - Class: 114
-      Script: {instanceID: 11170}
+      Script: {instanceID: 11190}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11264}
     - Class: 114
-      Script: {instanceID: 11272}
+      Script: {instanceID: 11298}
     - Class: 114
-      Script: {instanceID: 11306}
+      Script: {instanceID: 11502}
     - Class: 114
-      Script: {instanceID: 11510}
+      Script: {instanceID: 11694}
     - Class: 114
-      Script: {instanceID: 11702}
+      Script: {instanceID: 11910}
     - Class: 114
-      Script: {instanceID: 11918}
+      Script: {instanceID: 12254}
     - Class: 114
       Script: {instanceID: 12262}
     - Class: 114
-      Script: {instanceID: 12270}
+      Script: {instanceID: 12264}
     - Class: 114
-      Script: {instanceID: 12272}
+      Script: {instanceID: 12306}
     - Class: 114
-      Script: {instanceID: 12314}
-    - Class: 114
-      Script: {instanceID: 12422}
+      Script: {instanceID: 12414}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1441,4 +1441,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/maze build/Maze.exe
+  playerPath: C:/Users/Rosalie/Documents/A&G/Unity/MAZE Assets/BUILD/Maze/Maze.exe
